@@ -55,7 +55,7 @@ For complete guide to training your model and inference using the trained model
 
 #### 3.2 Django Web Application Integration
 
-[Here is a detailed blog](https://medium.com/analytics-vidhya/movie-recommendation-system-python-flask-web-application-heroku-deployment-7e39492b640c) explaining about complete approach and directory structure essential to understand Django integration.
+explaining about complete approach and directory structure essential to understand Django integration.
 
 <hr>
 
